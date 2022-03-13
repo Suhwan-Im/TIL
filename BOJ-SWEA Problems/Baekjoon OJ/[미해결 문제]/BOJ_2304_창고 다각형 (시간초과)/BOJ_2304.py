@@ -5,7 +5,6 @@ sys.stdin = open('input.txt')
 N = int(input())
 num_list = [list(map(int, input().split())) for _ in range(N)]
 
-
 col_max = 0     # 기둥의 최대 범위
 row_max = 0     # 기둥의 최대 높이
 idx_max = 0     # 최대 높이 기둥의 인덱스
