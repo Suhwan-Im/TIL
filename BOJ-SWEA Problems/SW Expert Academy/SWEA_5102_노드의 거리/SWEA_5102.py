@@ -17,7 +17,7 @@ for tc in range(1, T+1):
     status = 0          # while문을 종료시킬 status 변수 0으로 생성
 
     # while문을 이용해 BFS 구현하기
-    while status == 0:
+    while status == 0 and que:
         curr_n = que.pop(0)             # 큐의 첫번째 인자 꺼내기
         sub_que = []                    # BFS 회전수별 인자를 담을 sub_que 리스트 생성
         for k in range(len(curr_n)):    # 큐에서 꺼낸 인자를 순회하기
@@ -32,8 +32,9 @@ for tc in range(1, T+1):
                 elif nodes[i][1] == n and visited[i][1] == 0:   # 현재값이 노드의 두번째 원소와 일치하고 방문하지 않은 곳일때,
                     sub_que.append(nodes[i][0])                 # -> 노드의 첫번째 값을 sub_que에 누적
                     visited[i][0], visited[i][1] = 1, 1         # -> visited 리스트에 방문여부 1로 표시
-        que.append(sub_que)         # 큐에 이번회차 sub_que 원소를 누적
-        cnt += 1                    # 회전수 1 증가
+        if len(sub_que) > 0:            # sub_que에 값이 있는 경우,
+            que.append(sub_que)         # -> 큐에 이번회차 sub_que 원소를 누적
+        cnt += 1    # 회전수 1 증가
 
     # 결과 출력
     print(f'#{tc} {V_cnt[stop]}')
