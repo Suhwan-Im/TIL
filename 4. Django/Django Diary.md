@@ -91,6 +91,19 @@
           fields = '__all__'
   ```
 
+- Admin.py 작성하기
+
+  - `python manage.py createsuperuser` 명령어로 admin 계성 생성
+  - 그 후, Admin.py에 아래의 코드를 작성
+
+  ```python
+  from django.contrib import admin
+  from .models import Article
+  
+  # Register your models here.
+  admin.site.register(Article)
+  ```
+
 
 
 ### 4. urls.py
