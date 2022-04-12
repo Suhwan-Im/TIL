@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h1>회원가입</h1>
+
+  <form action="#" method='POST'>
+    {% csrf_token %}
+    {{ form.as_p }}
+
+    {% comment %}
+    # UserCreationForm 사용하지 않고 작성 #
+    <label for="username">유저네임:</label>
+    <input type="text" id='username' name='username'>
+    <br><br>
+    <label for="password">비밀번호:</label>
+    <input type="password" id='password' name='password'>
+    <br><br>
+    {% endcomment %}
+    <button type='submit'>가입하기</button>
+  </form>
+{% endblock content %}
