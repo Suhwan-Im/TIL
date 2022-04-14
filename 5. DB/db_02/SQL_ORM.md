@@ -321,7 +321,7 @@
    
       ```sql
    -- sql
-   SELECT * FROM users_user ORDER BY last_name DESC, first_name DESC;
+   SELECT * FROM users_user ORDER BY last_name DESC, first_name DESC LIMIT 1 OFFSET 4;
       ```
 
 
@@ -417,4 +417,3 @@
    -- sql
    SELECT country, COUNT(*) FROM users_user GROUP BY country;
    ```
-   
