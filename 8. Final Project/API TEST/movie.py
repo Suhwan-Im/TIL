@@ -8,7 +8,7 @@ from pprint import pprint
 #     path = '/movie/now_playing'
 #     page = int(page)
 #     params = {
-#         'api_key': '7065898125e3c5540c241eebabdd426e',
+#         'api_key': '##API_KEY##',
 #         'language': 'ko-KR',
 #         'page': page,
 #         'region': 'KR',
@@ -31,7 +31,7 @@ def movie_popular(page):
     path = '/movie/popular'
     page = int(page)
     params = {
-        'api_key': '7065898125e3c5540c241eebabdd426e',
+        'api_key': '##API_KEY##',
         'language': 'ko-KR',
         'page': page,
         'region': 'KR',

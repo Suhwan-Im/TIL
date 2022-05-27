@@ -6,7 +6,7 @@ def weather(reg):
     BASE_URL = 'https://api.openweathermap.org'
     path = '/data/2.5/weather'
     region = str(reg)
-    params = {'q': region, 'appid': '94d20dbf59c21d77835234930c8cfae2'}
+    params = {'q': region, 'appid': '##API_KEY##'}
     
     # 결과를 받아서 json형식의 data변수로 저장
     response = requests.get(BASE_URL+path, params=params)
