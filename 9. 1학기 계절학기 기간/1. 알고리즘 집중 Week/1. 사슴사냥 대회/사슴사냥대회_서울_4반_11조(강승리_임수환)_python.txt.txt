@@ -1,0 +1,44 @@
+def Me(opp, turn, opp_prev, opp_last_pattern) :
+	# 이 부분에 여러분의 알고리즘 구현이 들어갑니다
+    # 현재 게임의 상대방 패턴 누적하기
+    if turn == 0:
+        global opp_pattern
+        opp_pattern = []
+    else:
+        opp_pattern.append(opp_prev)
+
+    # 현재 게임의 나의 패턴 누적하기 (I)
+    if turn == 0:
+        global my_pattern
+        my_pattern = []
+
+    # 사슴사냥 알고리즘
+    if turn <= 1:
+        rlt = 2
+    elif turn == 2:
+        rlt = 0
+    elif turn <= 4:
+        rlt = 2
+    elif turn == 5:
+        rlt = 0
+    elif turn >=6 :
+        for i in range(turn-2,-1,-1):
+            if opp_pattern[i] == opp_pattern[-1] and my_pattern[i] == my_pattern[-1]:
+                pred = opp_pattern[i+1]
+                if pred == 0:
+                    rlt = random.randint(0,1) # 같이 사슴내서 서로 점수를 받거나 아님 토끼를 내서 나만 점수를 갖거나
+                else:
+                    rlt = 2
+            else:
+                if turn <= 7:
+                    rlt = 2
+                elif turn == 8:
+                    rlt = 0
+                else:
+                    rlt = 2
+
+    # 현재 게임의 나의 패턴 누적하기 (II)
+    if turn < 9:
+        my_pattern.append(rlt)
+
+    return rlt # 반드시 0 또는 1 또는 2로 리턴해야합니다
