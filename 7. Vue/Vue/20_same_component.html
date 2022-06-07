@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <div id="app">
+    <app-header :propsnum="number"></app-header>
+    <app-content @send="getNum"></app-content>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <script>
+    const appHeader = {
+      template: '<h2>App Header</h2>',
+      props: ['propsnum'],
+    }
+
+    const appContent = {
+      template: '<button @click="emitEvent">send</button>',
+      data: () => {
+        return {
+          contentNum: 10,
+        }
+      },
+      methods: {
+        emitEvent() {
+          this.$emit('send', this.contentNum)
+        },
+      },
+    }
+
+    new Vue({
+      el: '#app',
+      components: {
+        appHeader,
+        appContent
+      },
+      data: {
+        number: 0,
+      },
+      methods: {
+        getNum(value) {
+          this.number = value
+        },
+      },
+    })
+  </script>
+</body>
+</html>
