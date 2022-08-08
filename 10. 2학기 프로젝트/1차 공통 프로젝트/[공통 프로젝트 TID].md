@@ -18,6 +18,14 @@
 
 
 
+### 220808 (월)
+
+- 배포 및 Docker 공부 (2)
+  - Jenkins를 통해 Docker in Docker 설치
+  - AWS EC2 인스턴스 생성
+
+
+
 ### 220805 (금)
 
 - 배포 및 Docker 공부
