@@ -2,7 +2,7 @@
 
 
 
-### 프로젝트 생성 후 Veiw와 Template 작성
+### 프로젝트 생성 후 View와 Template 작성
 
 - Git Bash에서 작성 (프로젝트를 진행할 폴더를 만든 후 안에서 Git Bash 실행)
 
