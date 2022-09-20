@@ -18,9 +18,18 @@
 
 
 
+### 220920 (화)
+
+- 파생테이블 생성 코드 수정 (recipe_tables_generator.py)
+- ingredient 중요도 수치 설정
+
+
+
 ### 220919 (월)
 
 - recipe 데이터 전처리 및 파생테이블 생성
+  - recipe, ingredient, recipe_detail, recipe_ingredient 테이블
+
 
 
 
