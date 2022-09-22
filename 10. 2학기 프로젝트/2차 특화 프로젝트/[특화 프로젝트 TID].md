@@ -18,9 +18,21 @@
 
 
 
+### 220922 (목)
+
+- DB에 나머지 파생 테이블 데이터 넣기
+  - recipe, recipe_detail, recipe_ingredient 테이블
+
+
+
 ### 220921 (수)
 
+- Git merge시 conflict난 것 해결
+  - develop 브랜치 살리는 작업
+
 - DB에 파생 테이블 데이터 넣기
+  - Ingredient 테이블 삽입 완료
+
 
 
 
