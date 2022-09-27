@@ -18,6 +18,12 @@
 
 
 
+### 220927 (화)
+
+- Django와 React Native 연결하기 (이어서)
+
+
+
 ### 220926 (월)
 
 - Django와 React Native 연결하기
