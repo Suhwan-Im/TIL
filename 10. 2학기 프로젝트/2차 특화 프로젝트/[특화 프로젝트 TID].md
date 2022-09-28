@@ -20,7 +20,7 @@
 
 ### 220918 (수)
 
-- 
+- views.py (swagger용 POST방식 코드 작성)
 
 
 
