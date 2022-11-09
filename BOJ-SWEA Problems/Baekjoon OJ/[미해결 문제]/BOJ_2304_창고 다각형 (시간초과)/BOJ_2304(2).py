@@ -1,23 +1,24 @@
 import sys
 sys.stdin = open('input.txt')
 
-
 N = int(input())
 num_list = [list(map(int, input().split())) for _ in range(N)]
+num_list = sorted(num_list)
 
-max_height = 0
 col_highest = 0
-min_col = 1000
-max_col = 0
+max_height = 0
 for nums in num_list:
     if nums[1] > max_height:
-        max_height = nums[1]
         col_highest = nums[0]
-    if nums[0] < min_col:
-        min_col = nums[0]
-    if nums[0] > max_col:
-        max_col = nums[0]
+        max_height = nums[1]
 
-print(col_highest, min_col, max_col)
+area = 0
+curr_y = 0
+for x, y in num_list:
+    if x < col_highest and y < max_height:
+        area += (col_highest - x) * y
+        curr_y = y
+
+print(num_list)
 
 # 푸는중...
