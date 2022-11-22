@@ -14,6 +14,14 @@
 
 
 
+### 221122 (화)
+
+- 코드 수정
+  - API에서 데이터를 받아와 assist 기록하는 코드에서 try-except 적용
+    (Events 중 goal 데이터에만 assist가 붙어있으므로, 반복문에서 다른 event를 마주할때 assist 가 없다는 에러 발생 --> try-except문을 통해 해결)
+
+
+
 ### 221121 (월)
 
 - 최종 발표
