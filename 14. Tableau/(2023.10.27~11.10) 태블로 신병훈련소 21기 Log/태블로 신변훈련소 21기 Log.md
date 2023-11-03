@@ -76,3 +76,10 @@
 
 - 과제 - https://quip.com/JE4dAEKGQYyW
   - 공간 분석
+
+
+
+### [6일차] 2023.11.03 (금)
+
+- 보너스 세션
+  - 태블로 시각화 기본 원리 - https://www.youtube.com/watch?v=dB4qklZKuwQ
