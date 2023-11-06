@@ -79,7 +79,17 @@
 
 
 
-### [6일차] 2023.11.03 (금)
+### [보너스] 2023.11.03 (금)
 
 - 보너스 세션
   - 태블로 시각화 기본 원리 - https://www.youtube.com/watch?v=dB4qklZKuwQ
+
+
+
+### [6일차] 2023.11.06 (월)
+
+- 학습 - https://quip.com/vf7KAAEuMlWS
+  - 고급계산식 - https://www.youtube.com/watch?v=Pe7_6ANkpLQ
+- 과제 - https://quip.com/yNb9AgsFTn5k
+  - 테이블 계산식 & LOD
+
