@@ -93,3 +93,14 @@
 - 과제 - https://quip.com/yNb9AgsFTn5k
   - 테이블 계산식 & LOD
 
+
+
+### [7일차] 2023.11.07 (화)
+
+- 학습 - https://quip.com/C4plAvgFeqeM
+  - 범프 차트 - https://www.youtube.com/watch?v=TNEqrxXlA8Y
+  - 워터폴 차트 - https://www.youtube.com/watch?v=qFpY--clvBE
+  - 퍼널(깔때기) 차트 - https://www.youtube.com/watch?v=mXjRVYVClJM
+- 과제 - https://quip.com/HWtdA8j5qewt
+  - 도넛차트, 워터폴차트, 범프차트, 퍼널차트, 간트차트
+
