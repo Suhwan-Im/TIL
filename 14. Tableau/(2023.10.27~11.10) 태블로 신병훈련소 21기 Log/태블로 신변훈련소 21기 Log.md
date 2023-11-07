@@ -99,8 +99,27 @@
 
 - 학습 - https://quip.com/C4plAvgFeqeM
   - 범프 차트 - https://www.youtube.com/watch?v=TNEqrxXlA8Y
+  
+    -> 라인 차트의 일종으로 시간 흐름에 따른 순위 변화를 시각화
+  
+    ![image-20231107224307418](%ED%83%9C%EB%B8%94%EB%A1%9C%20%EC%8B%A0%EB%B3%80%ED%9B%88%EB%A0%A8%EC%86%8C%2021%EA%B8%B0%20Log.assets/image-20231107224307418.png)
   - 워터폴 차트 - https://www.youtube.com/watch?v=qFpY--clvBE
+  
+    특정 측정값(주로 양수&음수 값이 있는)이 하나의 차원을 따라가며 누적되는 것을 시각화
+  
+    ![image-20231107224918652](%ED%83%9C%EB%B8%94%EB%A1%9C%20%EC%8B%A0%EB%B3%80%ED%9B%88%EB%A0%A8%EC%86%8C%2021%EA%B8%B0%20Log.assets/image-20231107224918652.png)
   - 퍼널(깔때기) 차트 - https://www.youtube.com/watch?v=mXjRVYVClJM
+  
+    주로 영업 사이클에 활용, 몇 명의 고객이 있고 그들이 어느 단계에 있는가를 시각화
+  
+    ![image-20231107225137879](%ED%83%9C%EB%B8%94%EB%A1%9C%20%EC%8B%A0%EB%B3%80%ED%9B%88%EB%A0%A8%EC%86%8C%2021%EA%B8%B0%20Log.assets/image-20231107225137879.png)
 - 과제 - https://quip.com/HWtdA8j5qewt
   - 도넛차트, 워터폴차트, 범프차트, 퍼널차트, 간트차트
+
+
+
+### [8일차] 2023.11.08 (수)
+
+- 학습 - 
+- 과제 - 
 
