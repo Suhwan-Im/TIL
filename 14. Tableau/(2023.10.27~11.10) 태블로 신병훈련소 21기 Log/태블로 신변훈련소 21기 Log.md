@@ -120,6 +120,10 @@
 
 ### [8일차] 2023.11.08 (수)
 
-- 학습 - 
-- 과제 - 
+- 학습 - https://quip.com/6hNJA1zMoQYS
+  - 태블로 집합 분석의 이론과 실습 - https://www.youtube.com/watch?v=ZkGrobxRAcw&t=598s
+
+- 과제 - https://quip.com/l42cAI1IC4Oa
+  - Set Action & Parameter Action
+
 
