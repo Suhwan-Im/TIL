@@ -127,3 +127,12 @@
   - Set Action & Parameter Action
 
 
+
+### [9일차] 2023.11.09 (목)
+
+- 학습 - https://quip.com/srNyAgota6Zx
+  - 최상의 비주얼 분석 방법 (가이드북) - https://www.tableau.com/sites/default/files/media/Whitepapers/visualanalysisbestpractices_ko-kr.pdf
+  - [영어판] Visual Analysis Best Practices - https://www.tableau.com/sites/default/files/media/whitepaper_visual-analysis-guidebook_0.pdf
+
+- 과제 - https://quip.com/rWFcAf4xZ2yi
+  - COVID-19 Cases
