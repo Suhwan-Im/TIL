@@ -142,7 +142,7 @@
 ### [10일차] 2023.11.10 (금)
 
 - 학습 - https://quip.com/jw0vAKeRYzAy
-  - 기초실습교육 - https://www.youtube.com/watch?v=81vkiUW4QT4
-    Prep Data 부분  (35분 까지 시청)
+  - 기초실습교육 - https://www.youtube.com/watch?v=81vkiUW4QT4&t=1170s
+    Prep Data 부분  (19분30초 ~ 35분15초 까지 시청)
 - 과제 - https://quip.com/13tLAT7kI1hh
   - Prep Data
