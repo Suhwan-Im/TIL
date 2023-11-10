@@ -136,3 +136,13 @@
 
 - 과제 - https://quip.com/rWFcAf4xZ2yi
   - COVID-19 Cases
+
+
+
+### [10일차] 2023.11.10 (금)
+
+- 학습 - https://quip.com/jw0vAKeRYzAy
+  - 기초실습교육 - https://www.youtube.com/watch?v=81vkiUW4QT4
+    Prep Data 부분  (35분 까지 시청)
+- 과제 - https://quip.com/13tLAT7kI1hh
+  - Prep Data
