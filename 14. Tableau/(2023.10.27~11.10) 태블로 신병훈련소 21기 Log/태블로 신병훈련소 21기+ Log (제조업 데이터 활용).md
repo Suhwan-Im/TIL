@@ -18,3 +18,9 @@
 - 학습 - https://quip.com/USvMAitM0ROw
   - Process Flow Monitoring
 
+
+
+### [13일차] 2023.11.15 (수)
+
+- 학습 - https://quip.com/yD1ZAIxqn0Em
+  - Failure Equipment Monitoring
