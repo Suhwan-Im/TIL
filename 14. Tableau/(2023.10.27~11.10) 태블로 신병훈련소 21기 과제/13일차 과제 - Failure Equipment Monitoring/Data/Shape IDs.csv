@@ -1,0 +1,463 @@
+﻿Part Name (Shape IDs),point id (Shape IDs),x (Shape IDs),y (Shape IDs)
+Door,0,570,249
+Door,1,559,230
+Door,2,557,214
+Door,3,561,199
+Door,4,571,171
+Door,5,588,136
+Door,6,601,116
+Door,7,607,104
+Door,8,627,95
+Door,9,664,93
+Door,10,740,92
+Door,11,837,89
+Door,12,859,131
+Door,13,863,179
+Door,14,861,200
+Door,15,860,212
+Door,16,854,227
+Door,17,848,235
+Door,18,836,241
+Door,19,803,242
+Door,20,802.599975586,237
+Door,21,798.599975586,230
+Door,22,782.599975586,230
+Door,23,772.599975586,242
+Door,24,749,243.800003052
+Door,25,570,249
+Wing Mirror,0,797,255.800003052
+Wing Mirror,1,789,265.800003052
+Wing Mirror,2,776.799987793,273
+Wing Mirror,3,766.799987793,275
+Wing Mirror,4,756.799987793,274
+Wing Mirror,5,750.799987793,271
+Wing Mirror,6,743.799987793,261
+Wing Mirror,7,743.799987793,253
+Wing Mirror,8,747.799987793,248
+Wing Mirror,9,753.799987793,246
+Wing Mirror,10,764.799987793,245
+Wing Mirror,11,772.599975586,242
+Wing Mirror,12,782.599975586,230
+Wing Mirror,13,798.799987793,230
+Wing Mirror,14,802.599975586,237
+Wing Mirror,15,803,242
+Wing Mirror,16,797,255.800003052
+Windows,0,570,249
+Windows,1,499,253
+Windows,2,483,256
+Windows,3,468,263
+Windows,4,452,269
+Windows,5,435,280
+Windows,6,430,286
+Windows,7,436,292
+Windows,8,450,294
+Windows,9,476,302
+Windows,10,504,307
+Windows,11,536,312
+Windows,12,565,315
+Windows,13,588,317
+Windows,14,625,318
+Windows,15,664,317
+Windows,16,699,311
+Windows,17,726,303
+Windows,18,747,295
+Windows,19,761,287
+Windows,20,783,277
+Windows,21,803,266
+Windows,22,825,251
+Windows,23,835,243
+Windows,24,826,241
+Windows,25,637.399993896,247
+Windows,26,570,249
+Rear Wheels,0,331.5,122
+Rear Wheels,1,336.5,135
+Rear Wheels,2,349.5,155
+Rear Wheels,3,368.5,169
+Rear Wheels,4,386.5,175
+Rear Wheels,5,403.5,174
+Rear Wheels,6,415.5,170
+Rear Wheels,7,428.5,163
+Rear Wheels,8,441.5,154
+Rear Wheels,9,452.5,136
+Rear Wheels,10,457.5,124
+Rear Wheels,11,458.5,110
+Rear Wheels,12,456.5,92
+Rear Wheels,13,450.5,79
+Rear Wheels,14,440.5,66
+Rear Wheels,15,423.5,54
+Rear Wheels,16,402.5,48
+Rear Wheels,17,384.5,48
+Rear Wheels,18,364.5,55
+Rear Wheels,19,350.5,65
+Rear Wheels,20,339.5,79
+Rear Wheels,21,333.5,96
+Rear Wheels,22,331.5,113
+Rear Wheels,23,331.5,122
+Light 2,0,1112.25,179
+Light 2,1,1105.25,186
+Light 2,2,1103.25,195
+Light 2,3,1109.25,198
+Light 2,4,1115.25,194
+Light 2,5,1121.25,189
+Light 2,6,1124.25,183
+Light 2,7,1123.25,176
+Light 2,8,1116.25,176
+Light 2,9,1112.25,179
+Light 1,0,1137.25,164
+Light 1,1,1132.25,173
+Light 1,2,1128.25,182
+Light 1,3,1125.25,195
+Light 1,4,1128.25,201
+Light 1,5,1134.25,198
+Light 1,6,1141.25,191
+Light 1,7,1145.25,185
+Light 1,8,1146.25,177
+Light 1,9,1147.25,168
+Light 1,10,1146.25,162
+Light 1,11,1141.25,160
+Light 1,12,1137.25,164
+Skirt,0,837,89
+Skirt,1,914.666656494,87
+Skirt,2,913.666656494,69
+Skirt,3,509.666656494,71
+Skirt,4,489.666656494,73
+Skirt,5,488.666656494,94
+Skirt,6,486.666656494,109
+Skirt,7,607,104
+Skirt,8,627,95
+Skirt,9,664,93
+Skirt,10,740,92
+Skirt,11,837,89
+Side Grill,0,859,131
+Side Grill,1,897,128.666671753
+Side Grill,2,904,126.666671753
+Side Grill,3,902,121.666671753
+Side Grill,4,884,107.666671753
+Side Grill,5,873,101.666671753
+Side Grill,6,860,95.666671753
+Side Grill,7,842,95.666671753
+Side Grill,8,859,131
+Rear Light,0,208.800003052,212
+Rear Light,1,210.800003052,222
+Rear Light,2,215.800003052,224
+Rear Light,3,224.800003052,220
+Rear Light,4,231.800003052,216
+Rear Light,5,233.800003052,211
+Rear Light,6,227.800003052,207
+Rear Light,7,221.800003052,203
+Rear Light,8,214.800003052,202
+Rear Light,9,208.800003052,203
+Rear Light,10,208.800003052,212
+Windscreen,0,872.5,257
+Windscreen,1,880.5,251
+Windscreen,2,876.5,248
+Windscreen,3,868.5,247
+Windscreen,4,860.5,248
+Windscreen,5,846.5,255
+Windscreen,6,786,288
+Windscreen,7,763,300
+Windscreen,8,749,306
+Windscreen,9,735,312
+Windscreen,10,727,315
+Windscreen,11,733,318
+Windscreen,12,735.400024414,322
+Windscreen,13,769.400024414,307
+Windscreen,14,805.400024414,289
+Windscreen,15,863.799987793,261
+Windscreen,16,872.5,257
+Front Wheel,0,1005.400024414,173.800003052
+Front Wheel,1,1017.400024414,173.800003052
+Front Wheel,2,1035.400024414,168.800003052
+Front Wheel,3,1051.400024414,158.800003052
+Front Wheel,4,1062.400024414,144.800003052
+Front Wheel,5,1070.400024414,129.800003052
+Front Wheel,6,1072.400024414,114.800003052
+Front Wheel,7,1070.400024414,94.800003052
+Front Wheel,8,1063.400024414,78.800003052
+Front Wheel,9,1053.400024414,64.800003052
+Front Wheel,10,1039.400024414,53.800003052
+Front Wheel,11,1022.400024414,46.800003052
+Front Wheel,12,1003.400024414,44.800003052
+Front Wheel,13,985.400024414,48.800003052
+Front Wheel,14,970.400024414,57.800003052
+Front Wheel,15,957.400024414,69.800003052
+Front Wheel,16,947.400024414,83.800003052
+Front Wheel,17,944.400024414,100.800003052
+Front Wheel,18,945.400024414,116.800003052
+Front Wheel,19,950.400024414,135.800003052
+Front Wheel,20,959.400024414,149.800003052
+Front Wheel,21,971.400024414,161.800003052
+Front Wheel,22,987.400024414,170.800003052
+Side Front Body,0,848,235
+Side Front Body,1,930,235
+Side Front Body,2,997,231
+Side Front Body,3,1068,222
+Side Front Body,4,1114,211
+Side Front Body,5,1139,202
+Side Front Body,6,1151,195
+Side Front Body,7,1159,161
+Side Front Body,8,1158,143
+Side Front Body,9,1157,129
+Side Front Body,10,1159,124
+Side Front Body,11,1155,113
+Side Front Body,12,1150,96
+Side Front Body,13,1156,90
+Side Front Body,14,1135,75
+Side Front Body,15,1119,71
+Side Front Body,16,1090,70
+Side Front Body,17,1095,96
+Side Front Body,18,1094,128
+Side Front Body,19,1087,153
+Side Front Body,20,1070,174
+Side Front Body,21,1047,191
+Side Front Body,22,1022,201
+Side Front Body,23,998,200
+Side Front Body,24,973,194
+Side Front Body,25,955,183
+Side Front Body,26,939,167
+Side Front Body,27,926,146
+Side Front Body,28,921,132
+Side Front Body,29,917,115
+Side Front Body,30,916,97
+Side Front Body,31,914.666656494,87
+Side Front Body,32,837,89
+Side Front Body,33,842,95.666671753
+Side Front Body,34,860,95.666671753
+Side Front Body,35,873,101.666671753
+Side Front Body,36,884,107.666671753
+Side Front Body,37,902,121.666671753
+Side Front Body,38,904,126.666671753
+Side Front Body,39,897,128.666671753
+Side Front Body,40,859,131
+Side Front Body,41,863,179
+Side Front Body,42,861,200
+Side Front Body,43,860,212
+Side Front Body,44,854,227
+Side Front Body,45,848,235
+Rear Bumper,0,295,123
+Rear Bumper,1,304,123
+Rear Bumper,2,303,111
+Rear Bumper,3,305,97
+Rear Bumper,4,310,83
+Rear Bumper,5,281,85
+Rear Bumper,6,249,89
+Rear Bumper,7,225,96
+Rear Bumper,8,211,102
+Rear Bumper,9,214,111
+Rear Bumper,10,207,120
+Rear Bumper,11,194,131
+Rear Bumper,12,193,138
+Rear Bumper,13,198,143
+Rear Bumper,14,206,137
+Rear Bumper,15,221,133
+Rear Bumper,16,266,127
+Rear Bumper,17,295,123
+Bonite,0,825,251
+Bonite,1,834.666687012,256
+Bonite,2,840.666687012,258
+Bonite,3,846.5,255
+Bonite,4,860.5,248
+Bonite,5,868.5,247
+Bonite,6,876.5,248
+Bonite,7,893.666687012,247
+Bonite,8,901.799987793,250
+Bonite,9,899.799987793,254
+Bonite,10,889.799987793,256
+Bonite,11,907.799987793,255
+Bonite,12,937.799987793,253
+Bonite,13,959.599975586,251
+Bonite,14,986.599975586,248
+Bonite,15,1014.599975586,244
+Bonite,16,1047.200012207,239
+Bonite,17,1085.199951172,230
+Bonite,18,1109.199951172,221
+Bonite,19,1125.199951172,214
+Bonite,20,1136,208
+Bonite,21,1145,202
+Bonite,22,1151,195
+Bonite,23,1139,202
+Bonite,24,1114,211
+Bonite,25,1068,222
+Bonite,26,997,231
+Bonite,27,930,235
+Bonite,28,848,235
+Bonite,29,835,243
+Bonite,30,825,251
+Spoiler,0,233.600006104,250
+Spoiler,1,227.600006104,247
+Spoiler,2,221.600006104,246
+Spoiler,3,216.600006104,244
+Spoiler,4,219.600006104,238
+Spoiler,5,213.600006104,233
+Spoiler,6,210.800003052,222
+Spoiler,7,207.600006104,237
+Spoiler,8,210.600006104,245
+Spoiler,9,233.600006104,250
+Rear Lower Body Part,0,337.600006104,183
+Rear Lower Body Part,1,324.600006104,185
+Rear Lower Body Part,2,281.600006104,197
+Rear Lower Body Part,3,233.800003052,211
+Rear Lower Body Part,4,227.800003052,207
+Rear Lower Body Part,5,221.800003052,203
+Rear Lower Body Part,6,214.800003052,202
+Rear Lower Body Part,7,208.800003052,203
+Rear Lower Body Part,8,204,189
+Rear Lower Body Part,9,196,184
+Rear Lower Body Part,10,195,175
+Rear Lower Body Part,11,196,158
+Rear Lower Body Part,12,197,149
+Rear Lower Body Part,13,208,144
+Rear Lower Body Part,14,217,141
+Rear Lower Body Part,15,257,136
+Rear Lower Body Part,16,286.600006104,132
+Rear Lower Body Part,17,295.600006104,131
+Rear Lower Body Part,18,305.600006104,131
+Rear Lower Body Part,19,308.600006104,142
+Rear Lower Body Part,20,314.600006104,156
+Rear Lower Body Part,21,322.600006104,167
+Rear Lower Body Part,22,330.600006104,175
+Rear Lower Body Part,23,337.600006104,183
+Fuel Cap Cover,0,297.600006104,244.800003052
+Fuel Cap Cover,1,304.600006104,240.800003052
+Fuel Cap Cover,2,318.600006104,241.800003052
+Fuel Cap Cover,3,331.600006104,243.800003052
+Fuel Cap Cover,4,344.600006104,246.800003052
+Fuel Cap Cover,5,349.600006104,250.800003052
+Fuel Cap Cover,6,343.600006104,254.800003052
+Fuel Cap Cover,7,335.600006104,256.800003052
+Fuel Cap Cover,8,327.600006104,256.800003052
+Fuel Cap Cover,9,317.600006104,253.800003052
+Fuel Cap Cover,10,308.600006104,250.800003052
+Fuel Cap Cover,11,301.600006104,247.800003052
+Fuel Cap Cover,12,297.600006104,244.800003052
+Rear Upper Body Part,0,241.25,252
+Rear Upper Body Part,1,244.25,248
+Rear Upper Body Part,2,249.25,243
+Rear Upper Body Part,3,257.25,242
+Rear Upper Body Part,4,271.25,244
+Rear Upper Body Part,5,283.25,248
+Rear Upper Body Part,6,293.25,256
+Rear Upper Body Part,7,300.25,264
+Rear Upper Body Part,8,306.25,270
+Rear Upper Body Part,9,307.25,275
+Rear Upper Body Part,10,315.25,277
+Rear Upper Body Part,11,275.25,264
+Rear Upper Body Part,12,241.25,252
+Rear Window,0,315.25,277
+Rear Window,1,307.25,275
+Rear Window,2,306.25,270
+Rear Window,3,323,273.800003052
+Rear Window,4,399,295.800003052
+Rear Window,5,442,307.800003052
+Rear Window,6,446.399993896,312
+Rear Window,7,450.399993896,317
+Rear Window,8,421.399993896,310
+Rear Window,9,362,292
+Rear Window,10,315.25,277
+Large Body Part,0,450.399993896,317
+Large Body Part,1,484.600006104,324.199996948
+Large Body Part,2,538.600006104,331.199996948
+Large Body Part,3,583.600006104,334.199996948
+Large Body Part,4,626,335.199996948
+Large Body Part,5,661,334.199996948
+Large Body Part,6,690,331.199996948
+Large Body Part,7,715,327.199996948
+Large Body Part,8,735.400024414,322
+Large Body Part,9,733,318
+Large Body Part,10,727,315
+Large Body Part,11,735,312
+Large Body Part,12,749,306
+Large Body Part,13,763,300
+Large Body Part,14,786,288
+Large Body Part,15,840.666687012,258
+Large Body Part,16,834.666687012,256
+Large Body Part,17,825,251
+Large Body Part,18,803,266
+Large Body Part,19,783,277
+Large Body Part,20,761,287
+Large Body Part,21,747,295
+Large Body Part,22,726,303
+Large Body Part,23,699,311
+Large Body Part,24,664,317
+Large Body Part,25,625,318
+Large Body Part,26,588,317
+Large Body Part,27,565,315
+Large Body Part,28,536,312
+Large Body Part,29,504,307
+Large Body Part,30,476,302
+Large Body Part,31,450,294
+Large Body Part,32,436,292
+Large Body Part,33,430,286
+Large Body Part,34,435,280
+Large Body Part,35,452,269
+Large Body Part,36,468,263
+Large Body Part,37,483,256
+Large Body Part,38,499.5,251
+Large Body Part,39,570,249
+Large Body Part,40,559,230
+Large Body Part,41,557,214
+Large Body Part,42,561,199
+Large Body Part,43,571,171
+Large Body Part,44,588,136
+Large Body Part,45,601,116
+Large Body Part,46,607,104
+Large Body Part,47,486.666656494,109
+Large Body Part,48,483.5,130
+Large Body Part,49,477.5,146
+Large Body Part,50,464.5,167
+Large Body Part,51,448.5,181
+Large Body Part,52,431.5,192
+Large Body Part,53,410.5,200
+Large Body Part,54,393.5,201
+Large Body Part,55,373.5,199
+Large Body Part,56,357.5,194
+Large Body Part,57,347.5,190
+Large Body Part,58,337.600006104,183
+Large Body Part,59,324.600006104,185
+Large Body Part,60,281.600006104,197
+Large Body Part,61,233.800003052,211
+Large Body Part,62,231.800003052,216
+Large Body Part,63,224.800003052,220
+Large Body Part,64,215.800003052,224
+Large Body Part,65,213.600006104,233
+Large Body Part,66,219.600006104,238
+Large Body Part,67,216.600006104,244
+Large Body Part,68,221.600006104,246
+Large Body Part,69,227.600006104,247
+Large Body Part,70,233.600006104,250
+Large Body Part,71,241.25,252
+Large Body Part,72,244.25,248
+Large Body Part,73,249.25,243
+Large Body Part,74,257.25,242
+Large Body Part,75,271.25,244
+Large Body Part,76,283.25,248
+Large Body Part,77,293.25,256
+Large Body Part,78,300.25,264
+Large Body Part,79,306.25,270
+Large Body Part,80,323,273.800003052
+Large Body Part,81,399,295.800003052
+Large Body Part,82,442,307.800003052
+Large Body Part,83,446.399993896,312
+Large Body Part,84,450.399993896,317
+Exhaust,0,193.600006104,125
+Exhaust,1,195.600006104,117
+Exhaust,2,198.600006104,110
+Exhaust,3,204.600006104,107
+Exhaust,4,214,111
+Exhaust,5,207,120
+Exhaust,6,194,131
+Exhaust,7,193.600006104,125
+Door Handle,0,576.400024414,207
+Door Handle,1,580.400024414,211
+Door Handle,2,586.400024414,212
+Door Handle,3,591.400024414,213
+Door Handle,4,594.400024414,210
+Door Handle,5,612.400024414,209
+Door Handle,6,615.400024414,213
+Door Handle,7,623.400024414,210
+Door Handle,8,627.400024414,207
+Door Handle,9,624.400024414,203
+Door Handle,10,610.400024414,200
+Door Handle,11,594.400024414,200
+Door Handle,12,583.400024414,202
+Door Handle,13,576.400024414,207
