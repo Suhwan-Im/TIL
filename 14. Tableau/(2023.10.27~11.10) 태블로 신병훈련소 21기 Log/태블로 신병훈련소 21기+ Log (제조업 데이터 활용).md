@@ -24,3 +24,10 @@
 
 - 학습 - https://quip.com/yD1ZAIxqn0Em
   - Failure Equipment Monitoring
+
+
+
+### [14일차] 2023.11.16 (목)
+
+- 학습 - https://quip.com/rzyXAdbZb2KD
+  - Data Integration
