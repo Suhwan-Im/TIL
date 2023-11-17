@@ -31,3 +31,10 @@
 
 - 학습 - https://quip.com/rzyXAdbZb2KD
   - Data Integration
+
+
+
+### [15일차] 2023.11.17 (금)
+
+- 학습 - https://quip.com/xXDDAII2iOFD
+  - Sensor Result Monitoring
